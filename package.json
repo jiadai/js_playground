@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jiadai/js_playground/issues"
   },
-  "homepage": "https://github.com/jiadai/js_playground#readme"
+  "homepage": "https://github.com/jiadai/js_playground#readme",
+  "dependencies": {
+    "cucumber": "^1.3.2"
+  }
 }
